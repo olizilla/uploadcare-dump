@@ -1,7 +1,7 @@
 {
   "name": "uploadcare-dump",
   "type": "module",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Download all your files from uploadcare",
   "bin": "cli.js",
   "main": "cli.js",
